@@ -169,8 +169,6 @@ class RA_Post_Carousel_Widget extends SiteOrigin_Widget {
 			'size' => $instance['structure']['size'],
 			'template' => $instance['template'],
 			'slides' => $instance['slideshow']['slides'],
-			'margin' => $instance['slideshow']['margin'],
-			'duration' => $instance['slideshow']['duration'],
 			'speed' => $instance['slideshow']['speed'],
 			'autoplay' => $instance['slideshow']['autoplay'],
 			'navigation' => $instance['slideshow']['navigation'],
@@ -178,7 +176,6 @@ class RA_Post_Carousel_Widget extends SiteOrigin_Widget {
 			'autowidth' => $instance['slideshow']['autowidth'],
 			'autoheight' => $instance['slideshow']['autoheight'],
 			'center' => $instance['slideshow']['center'],
-			'mergefit' => $instance['slideshow']['mergefit'],
 			'loop' => $instance['slideshow']['loop'],
 			'slides_mobile' => $instance['responsive']['mobile'],
 			'slides_tablet' => $instance['responsive']['tablet']
