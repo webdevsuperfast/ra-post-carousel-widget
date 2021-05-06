@@ -2,6 +2,7 @@
 /*
 Plugin Name: Post Carousel Widget
 Plugin URI: https://github.com/webdevsuperfast/ra-post-carousel-widget
+GitHub Plugin URI: webdevsuperfast/ra-post-carousel-widget
 Description: Post Carousel Widget is a WordPress widget that uses the powerful SiteOrigin Widgets API.
 Version: 	1.0.0
 Author: 	Rotsen Mark Acob
