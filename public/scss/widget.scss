@@ -1,0 +1,35 @@
+// Slick Carousel
+@import '../../node_modules/slick-carousel/slick/slick.scss';
+@import '../../node_modules/slick-carousel/slick/slick-theme.scss';
+
+/* ## Default Styles
+----------------------------------------------------------------------------- */
+.slick-slide {
+	padding: 10px;
+	img {
+		margin: 0 auto;
+	}
+}
+
+.slick-next, .slick-prev {
+	width: 32px;
+	height: 32px;
+	font-family: inherit;
+	&:before {
+		font-size: 32px;
+		line-height: 1;
+		color: #000;
+	}
+}
+
+.slick-next {
+	&::before {
+		content: '›';
+	}
+}
+
+.slick-prev {
+	&::before {
+		content: '‹';
+	}
+}
