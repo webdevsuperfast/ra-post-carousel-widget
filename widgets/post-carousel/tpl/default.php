@@ -10,8 +10,8 @@ $attributes = array();
 
 $classes = array();
 $classes[] = 'ra-post-carousel';
-$classes[] = 'owl-carousel';
-$classes[] = 'owl-theme';
+$classes[] = 'slick-carousel';
+$classes[] = 'slick-theme';
 $classes[] = $class;
 
 $attributes = array(
