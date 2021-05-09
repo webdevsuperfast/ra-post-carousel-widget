@@ -75,7 +75,7 @@ $loop = new WP_Query( $post_args ); ?>
     <?php endwhile; ?>
         <?php wp_reset_query(); ?>
     <?php else : ?>
-        <?php echo __( 'No posts found.', 'recommendwp-widgets' ); ?>
+        <?php echo __( 'No posts found.', 'ra-post-carousel-widget' ); ?>
 
     </div>
     <?php endif; ?>
