@@ -21,6 +21,21 @@ class RA_Post_Carousel_Widget extends SiteOrigin_Widget {
         );
     }
 
+		function initialize() {
+			$this->register_frontend_scripts(
+				array(
+					array( 'rapc-slick-carousel-js', RACW_PLUGIN_URL . 'public/js/slick.min.js', array( 'jquery' ), null, true ),
+					array( 'rapc-widget-js', RACW_PLUGIN_URL . 'public/js/widget.min.js', array( 'rapc-slick-carousel-js' ), null, true )
+				)
+				);
+
+			$this->register_frontend_styles(
+				array( 
+					array( 'rapc-widget-css', RACW_PLUGIN_URL . 'public/css/widget.css' )
+				)
+				);
+		}
+
     function get_widget_form() {
     	return array(
 			'title' => array(
@@ -52,7 +67,7 @@ class RA_Post_Carousel_Widget extends SiteOrigin_Widget {
 						'default' => 'thumbnail',
 						'state_emitter' => array(
 							'callback' => 'conditional',
-							'args' => array( 'structure[display]: val == thumbnail' )
+							'args' => array( 'display: val == "thumbnail"' )
 						)
 					),
 					'size' => array(
@@ -60,7 +75,7 @@ class RA_Post_Carousel_Widget extends SiteOrigin_Widget {
 						'label' => __( 'Thumbnail Size', 'ra-post-carousel-widget' ),
 						'custom_size' => true,
 						'state_handler' => array(
-							'structure[display][thumbnail]' => array( 'show' )
+							'display[thumbnail]' => array( 'show' )
 						)
 					)
 				)
