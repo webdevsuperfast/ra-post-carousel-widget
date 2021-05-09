@@ -1,6 +1,6 @@
 ## Post Carousel Widget
 
-Post Carousel Widget is a WordPress widget that uses the powerful SiteOrigin Widgets API.
+Post Carousel Widget is a WordPress widget that uses the powerful SiteOrigin Widgets API and [Slick Carousel](https://kenwheeler.github.io/slick/).
 
 ## Installation
 
@@ -10,5 +10,5 @@ Post Carousel Widget is a WordPress widget that uses the powerful SiteOrigin Wid
 ## Features
 
 1. SiteOrigin Widgets API.
-2. Uses Owl Carousel.
+2. Uses [Slick Carousel](https://kenwheeler.github.io/slick/).
 3. Developer-friendly.

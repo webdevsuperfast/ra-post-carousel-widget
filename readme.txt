@@ -8,16 +8,16 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Post Carousel Widget is a WordPress widget that uses the powerful SiteOrigin Widgets API.
+Post Carousel Widget is a WordPress widget that uses the powerful SiteOrigin Widgets API and Slick Carousel.
 
 == Description ==
 
-Post Carousel Widget is a WordPress widget that uses the SiteOrigin Widgets API. It comes with minimal set of styles to let the end user take control of its look and behavior. It can also be extended through custom widget templates to suit your website needs and functions. 
+Post Carousel Widget is a WordPress widget that uses the SiteOrigin Widgets API and Slick Carousel. It comes with minimal set of styles to let the end user take control of its look and behavior. It can also be extended through custom widget templates to suit your website needs and functions. 
 
 = Features =
 
 * SiteOrigin Widgets API.
-* Uses Owl Carousel.
+* Uses Slick Carousel.
 * Developer-friendly.
 
 == TODO ==
