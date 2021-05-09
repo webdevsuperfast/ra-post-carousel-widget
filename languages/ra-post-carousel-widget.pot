@@ -13,12 +13,8 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: ra-post-carousel-widget.php:15
+#: ra-post-carousel-widget.php:16
 msgid "With great power comes great responsibility."
-msgstr ""
-
-#: lib/misc.php:7
-msgid "Full"
 msgstr ""
 
 #: widgets/post-carousel/post-carousel.php:13
@@ -29,106 +25,106 @@ msgstr ""
 msgid "A simple post carousel widget"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:28
+#: widgets/post-carousel/post-carousel.php:43
 msgid "Title"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:33
+#: widgets/post-carousel/post-carousel.php:48
 msgid "Class"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:37
+#: widgets/post-carousel/post-carousel.php:52
 msgid "Post Query"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:41
+#: widgets/post-carousel/post-carousel.php:56
 msgid "Post Settings"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:46
+#: widgets/post-carousel/post-carousel.php:61
 msgid "Display Settings"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:48
+#: widgets/post-carousel/post-carousel.php:63
 msgid "Post Thumbnail"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:49
+#: widgets/post-carousel/post-carousel.php:64
 msgid "Post Title"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:50
+#: widgets/post-carousel/post-carousel.php:65
 msgid "Post Content"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:60
+#: widgets/post-carousel/post-carousel.php:75
 msgid "Thumbnail Size"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:70
+#: widgets/post-carousel/post-carousel.php:85
 msgid "Slideshow Settings"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:76
+#: widgets/post-carousel/post-carousel.php:91
 msgid "Slides"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:81
+#: widgets/post-carousel/post-carousel.php:96
 msgid "Speed"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:86
+#: widgets/post-carousel/post-carousel.php:101
 msgid "Enable autoplay?"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:91
+#: widgets/post-carousel/post-carousel.php:106
 msgid "Display navigation?"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:96
+#: widgets/post-carousel/post-carousel.php:111
 msgid "Display pagination?"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:101
+#: widgets/post-carousel/post-carousel.php:116
 msgid "Enable autoheight?"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:106
+#: widgets/post-carousel/post-carousel.php:121
 msgid "Enable autowidth?"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:111
+#: widgets/post-carousel/post-carousel.php:126
 msgid "Center item"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:116
+#: widgets/post-carousel/post-carousel.php:131
 msgid "Fit merged items?"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:121
+#: widgets/post-carousel/post-carousel.php:136
 msgid "Loop items?"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:127
+#: widgets/post-carousel/post-carousel.php:142
 msgid "Responsive Settings"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:132
+#: widgets/post-carousel/post-carousel.php:147
 msgid "Slides for mobile"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:137
+#: widgets/post-carousel/post-carousel.php:152
 msgid "Slides for tablets"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:144
+#: widgets/post-carousel/post-carousel.php:159
 msgid "Choose template"
 msgstr ""
 
-#: widgets/post-carousel/post-carousel.php:146
+#: widgets/post-carousel/post-carousel.php:161
 msgid "Default"
 msgstr ""
 
-#: widgets/post-carousel/tpl/default.php:80
+#: widgets/post-carousel/tpl/default.php:78
 msgid "No posts found."
 msgstr ""
