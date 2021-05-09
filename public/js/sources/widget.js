@@ -10,7 +10,7 @@
 
                 function carouselInstance(instance) {
                     var obj = window['postcarousel' + instance];
-                    
+
                     var sid = obj.id,
                         item = obj.items,
                         navigation = (obj.navigation === "true"),
