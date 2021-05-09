@@ -44,8 +44,6 @@ $loop = new WP_Query( $post_args ); ?>
 
 <?php if ( $loop->have_posts() ) : ?>
     <?php
-    wp_enqueue_script( 'rapc-slick-carousel-js' );
-    wp_enqueue_script( 'rapc-widget-js' );
     wp_localize_script('rapc-widget-js', 'postcarousel' . (int)$widget_id, $vars );
     ?>
 
